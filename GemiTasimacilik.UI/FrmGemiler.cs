@@ -56,7 +56,6 @@ namespace GemiTasimacilik.UI
 			tbGemiAdi.Text = string.Empty;
 			numKapasite.Value = 0;
 		}
-
 		private List<Gemi> VerileriListboxtanGetir() 
 		{
 			List<Gemi> gemiList = new List<Gemi>();

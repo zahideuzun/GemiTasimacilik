@@ -11,7 +11,6 @@ namespace GemiTasimacilik.Common
 		public string GemiAdi { get; set; }
 		public decimal Kapasite { get; set;}
 
-
 		public override string ToString()
 		{
 			return GemiAdi.ToUpper();
